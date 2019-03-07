@@ -22,6 +22,6 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 ## 效果截图如下
 
-![width=“200px”](https://github.com/escebt/sell/raw/master/screenshots/效果图2.png)
+![](https://github.com/escebt/sell/raw/master/screenshots/效果图2.png)
 ![](https://github.com/escebt/sell/raw/master/screenshots/效果图3.png)
 ![](https://github.com/escebt/sell/raw/master/screenshots/效果图4.png)
